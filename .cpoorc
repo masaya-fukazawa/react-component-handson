@@ -1,0 +1,8 @@
+{
+  "extension": "tsx",
+  "types": [
+    "index",
+    "storybook"
+  ],
+  "testMatch": "test"
+}
